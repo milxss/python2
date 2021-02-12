@@ -1,2 +1,2 @@
 # python2
-studies
+Here I practice Python 
