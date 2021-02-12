@@ -1,2 +1,2 @@
-# python2
+# Python Studies
 Here I practice Python 
